@@ -1,0 +1,129 @@
+*{
+    margin: 0px;
+    font-family: 'Inter', sans-serif;
+}
+
+#menusuperior{
+    background: #303030;
+    height: 475px;
+    color: #FFFFFF;
+    display: grid;
+    grid-template-columns: 1fr;
+
+}
+    
+#titulo-menusuperior{
+    font-weight: 600;
+    font-size: 60px; 
+    margin-left: 62px;
+    margin-top: 206px;
+    line-height: 72px;
+}
+
+#texto-menusuperior{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 28px;
+    margin-left: 62px;
+    margin-top: 0px;
+}
+
+#menuatrativo{
+    display: grid;
+    grid-auto-flow: column;
+    columns: auto;
+    background-color: #F9F9F9;
+    padding: 70px 270px 70px 270px;
+}
+
+.texto-atrativo{
+    margin-left: 85px;
+}
+
+.texto-atrativo-h1{
+    font-weight: 600;
+    font-size: 40px;
+}
+
+.texto-atrativo-p{
+    font-weight: 400;
+    font-size: 20px;
+}
+
+#menuinformacional{
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    columns: auto;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+#texto-menuinformacional{
+    height: 161px;
+    margin-top: 200px;
+    margin-left: 280px;
+}
+
+#titulo-informacional{
+    font-weight: 1500;
+    font-size: 40px;
+    line-height: 20px;
+}
+
+#texto-informacional{
+    font-weight: 900;
+    font-size: 24px;
+    line-height: 30px;
+}
+
+#imagem-arquitetura{
+    margin-left: -150px;
+}
+
+#formulario{
+    text-align: center;
+    background-color: #303030;
+}
+
+#titulo-formulario{
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 48px;
+    color: #FFFFFF;
+    padding-top: 100px;
+}
+
+input{
+    color: #0000004D;
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 30px;
+    width: 508px;
+    line-height: 72px;
+    margin-top: 85px;
+    border-radius: 10px;
+    padding-left: 30px;
+}
+
+button{
+    color: #FFFFFF;
+    background-color: #C07212;
+    font-family: "Raleway", sans-serif;
+    font-size: 36px;
+    width: 286px;
+    height: 74px;
+    border: 0px;
+    border-radius: 10px;
+    margin-bottom: 100px;
+    font-weight: bolder;
+    cursor: pointer;
+    margin-top: 65px;
+}
+
+button:hover{
+    background-color: #a5600d;
+    color: white;
+    transform: translateY(-2px);
+    box-shadow: 0px 15px 20px  #8f4f00;
+    transition-duration: 0.5s;
+}

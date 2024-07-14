@@ -11,3 +11,5 @@ Para a criação dessa Landing Page, foi utilizado a Linguagem de Marcação HTM
 Link do Site: https://arquiteturaresidencial-dnc.netlify.app/  
 Link da Planilha de Registro de Informação: https://docs.google.com/spreadsheets/d/1qbsfPot0p9vKkhfXRH7_1T8cOlSHFLQMARXiG0vsGtw/edit?usp=sharing
 
+![screencapture-arquiteturaresidencial-dnc-netlify-app-2024-07-14-11_40_53](https://github.com/user-attachments/assets/71beacce-63df-4880-8210-aafa226f009e)
+
